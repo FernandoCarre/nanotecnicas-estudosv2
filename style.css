@@ -1,0 +1,44 @@
+.apresentacao {
+    background-color: #C7DB9C;
+}
+
+.apresentacao__conteudo {
+    border: 2px solid yellow;
+    text-align: center;
+    margin:17%;
+    padding: 1%;
+    background-color: #7b904b; 
+}
+
+.apresentacao__titulo {
+    font-size: 36px;
+    color: #F1F0E9;
+}
+
+.destaque__titulo {
+    color: yellow;
+}
+
+.apresentacao__subtitulo {
+    font-size: 30px;
+    color: #F1F0E9;
+}
+
+.apresentacao__paragrafo {
+    color: #F1F0E9;
+    font-size: 24px;
+}
+
+.destaque__paragrafo__sublinhar {
+    text-decoration: underline yellow;
+}
+
+.destaque__paragrafo__marcar {
+    background-color: rgb(255, 255, 0, 0.3);
+}
+
+.destaque__paragrafo__circular {
+    border: 2px solid yellow;
+    border-radius: 50%;
+    padding: 0.5%;
+}
